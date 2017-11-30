@@ -1,0 +1,28 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-06-02T09:03:46</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.1.4.0.0</property>
+    <property name="modified">2017-11-30T09:22:02</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Overpass Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Overpass Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+</scheme>
