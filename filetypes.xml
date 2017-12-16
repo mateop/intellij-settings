@@ -6,6 +6,7 @@
       <mapping ext="sqlite" type="Native" />
       <mapping pattern="0b2e41f02ebf9b40402218ec42ae4b22e0c809d7" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="aboutUs-htm" type="PLAIN_TEXT" />
       <mapping pattern="en,json" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="htm" type="Twig" />
