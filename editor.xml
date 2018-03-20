@@ -4,6 +4,7 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="FONT_SCALE" value="1.0833334" />
     <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Overpass Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
