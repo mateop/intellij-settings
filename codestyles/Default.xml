@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
