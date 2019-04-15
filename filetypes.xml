@@ -10,7 +10,6 @@
       <mapping pattern="en,json" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="htm" type="Twig" />
     </extensionMap>
   </component>
