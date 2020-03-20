@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="htm" approved="true" type="HTML" />
       <mapping pattern="localStorageService.js" type="JavaScript" />
       <mapping ext="sqlite" type="Native" />
       <mapping pattern="aboutUs-htm" type="PLAIN_TEXT" />
@@ -9,6 +10,8 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
+      <mapping ext="htm" type="Twig" />
+      <removed_mapping ext="htm" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
