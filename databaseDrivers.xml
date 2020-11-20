@@ -115,5 +115,20 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="73956d87-5f90-4eea-880b-796ccba48f94" name="recipes driver" dialect="SQLite" driver-class="org.sqlite.JDBC" icon="AllIcons.Providers.Sqlite">
+      <url-template name="default" template="jdbc:sqlite:!(:memory:){file::identifier.sqlite}?" />
+      <url-template name="In-memory" template="jdbc:sqlite::memory:" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.16.1" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <property name="enable_load_extension" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.16.1/sqlite-jdbc-3.16.1.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.16.1/xerial-sqlite-license.txt</url>
+      </library>
+    </driver>
   </component>
 </application>
