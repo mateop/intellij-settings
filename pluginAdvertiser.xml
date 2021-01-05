@@ -1829,6 +1829,11 @@
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="MongoRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Mongo" pluginName="redis simple" pluginId="org.github.plugin.redis-simple" />
+                    </value>
+                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" />
