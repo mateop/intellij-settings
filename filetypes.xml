@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="637c3a84124c819b75e92eac1d37f3b1df3a2b9b" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="htm" type="Twig" />
