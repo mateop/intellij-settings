@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.10.10" id="9f903552-cd5b-4491-9ca5-0b1873bb6acd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig authType="PASSWORD" host="bitlucky.bot.hr" id="9f903552-cd5b-4491-9ca5-0b1873bb6acd" port="22" nameFormat="DESCRIPTIVE" username="mateo" />
     </configs>
   </component>
 </application>
