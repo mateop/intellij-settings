@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="mateop" id="2eeddc22-317a-4ab5-93fa-eab202fa7532">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
